@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Sienna Szczesny"
 
 ---
 
@@ -8,11 +8,10 @@ title: "About David Florian"
 
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Mechanical Engineering
+  * Minors in Computer Science, Digital Fabrication, Engineering Management
+  * Graduate in May 2027
 
 ## Technical Skills
 
