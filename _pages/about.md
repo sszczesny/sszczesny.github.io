@@ -32,10 +32,15 @@ David can operate a number of different computer controlled (CNC) fabrication to
   * Laythe
   * Friction Stir Welders
   * General tools
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* SolidWorks Certified
+* Autodesk Fusion 360
+* Programming
+  * Java
+  * G-Code
+  * MatLab
+  * HTML/CSS
+  * C++
+  * JavaScript
 
 ## Press 
 
