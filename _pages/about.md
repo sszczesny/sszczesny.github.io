@@ -11,13 +11,17 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 * Vanderbilt University
   * BE Mechanical Engineering
   * Minors in Computer Science, Digital Fabrication, Engineering Management
-  * Graduate in May 2027
+  * Expecation Graduation in May 2027
 
 ## Technical Skills
 
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 
-* Fused Filament Fabrication (FFF)
+* Machine Shop Machines
+  * Milling Machine
+  * Laythe
+  * Friction Stir Welders
+  * General tools
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
 * 3D Inkjet Printing
