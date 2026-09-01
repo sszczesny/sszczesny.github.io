@@ -3,15 +3,25 @@
 title: "About Sienna Szczesny"
 
 ---
+Sienna has a wide range of technical engineering experience, and will be working as a Battery Production Engineer following her graduation in May 2027. 
 
 ## Education
-
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
 * Vanderbilt University
   * BE Mechanical Engineering
   * Minors in Computer Science, Digital Fabrication, Engineering Management
   * Expecation Graduation in May 2027
+
+## Work Experience
+
+* Manufacturing Engineering Intern at Base Power Company
+  * June - August 2026 in Austin, Texas
+  * Module and Inverter Line Improvements
+
+* Project Management Intern at W&W Steel Erectors
+  * May - August 2025 in Nashville, Tennessee
+  * Nissan Titans Stadium Construction
+  
 
 ## Technical Skills
 
