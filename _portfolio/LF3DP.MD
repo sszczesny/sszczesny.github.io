@@ -22,6 +22,7 @@ The syringe pump was designed to be compatible with syringes of different diamet
 The pump includes one button to start and pause its motion and an RGB LED to inform the user of its current state. The LED is green while the pump is running, yellow while it is paused, and red when the syringe is out of liquid. A limit switch is positioned on the carriage so that when the syringe has been emptied, the switch collides with the end support and stops the motion of the motor.
 
 The syringe pump was programmed using Arduino with the AccelStepper library to control the speed of the stepper motor. Calculations were used to convert a desired flow rate in mL/min into the steps per second required from the motor. The flow rate and internal diameter of the syringe can be changed in the program, allowing the pump to operate with different syringe sizes and desired flow rates.
+<script src="https://gist.github.com/sszczesny/63c3be88db641657d14363d45011b2e1.js"></script>
 
 ![Syringe Final Assembly Photo](/assets/img/syringe_image.png)
 
