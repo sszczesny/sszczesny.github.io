@@ -16,6 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+I work in the Vanderbilt Machine Shop, and work to assist and teach students how to use the available machines for personal, extracurricular, and academic projects. I TA ME 1151, Introduction to Machining, and lead students in learning metalworking, measuring specifications, machining safety, and general shop knowledge. Their final project is using the mill and lathe to machine a metal hammer. 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
