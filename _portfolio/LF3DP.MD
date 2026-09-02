@@ -24,6 +24,6 @@ The pump includes one button to start and pause its motion and an RGB LED to inf
 The syringe pump was programmed using Arduino with the AccelStepper library to control the speed of the stepper motor. Calculations were used to convert a desired flow rate in mL/min into the steps per second required from the motor. The flow rate and internal diameter of the syringe can be changed in the program, allowing the pump to operate with different syringe sizes and desired flow rates.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b926df60c2b08dca?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
