@@ -1,5 +1,6 @@
 ---
 title: "Hammer Machining/Fabrication"
+order: 2
 excerpt: "Teaching students in the Machine Shop"
 header:
   image: /assets/img/hammer.jpg
