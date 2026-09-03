@@ -4,11 +4,7 @@ excerpt: "3D Printed Motorized Pump with Syringe Compatability"
 header:
   image: /assets/img/syringe_image.jpg
   teaser: /assets/img/syringe_image.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
-   
+
 ---
 
 # Project Design Overview
@@ -65,4 +61,3 @@ View the [Arduino Code](https://gist.github.com/sszczesny/63c3be88db641657d14363
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b926df60c2b08dca?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
