@@ -10,7 +10,7 @@ Sienna has a wide range of technical engineering experience, and will be working
 * Vanderbilt University
   * BE Mechanical Engineering
   * Minors in Computer Science, Digital Fabrication, Engineering Management
-  * Expecation Graduation in May 2027
+  * Expecation Graduation: May 2027
 
 ## Work Experience
 
@@ -28,13 +28,13 @@ Sienna has a wide range of technical engineering experience, and will be working
 
 * Machine Shop Machines
   * Milling Machine
-  * Laythe
+  * Lathe
   * Friction Stir Welders
   * General tools
 * Programming
   * Java
   * G-Code
-  * MatLab
+  * MatLAB
   * HTML/CSS
   * C++
   * JavaScript
@@ -42,7 +42,7 @@ Sienna has a wide range of technical engineering experience, and will be working
   * Autodesk Fusion 360
   * SuperSlicer
  
-## Certifications 
+## Awards and Certifications 
 * SolidWorks Certified
 * OSHA 10-Hour Construction
 
