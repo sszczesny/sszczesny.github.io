@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Mechanical Engineering Student at Vanderbilt University who after graduation will be working in manufacturing in Austin, Texas"
+excerpt: "Mechanical Engineering student at Vanderbilt University. This portfolio highlights my engineering, manufacturing, and digital fabrication projects and experience."
 feature_row:
   - image_path: /assets/img/syringe_image.png
     alt: "Syringe Pump"
