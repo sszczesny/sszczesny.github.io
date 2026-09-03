@@ -17,6 +17,7 @@ Sienna has a wide range of technical engineering experience, and will be working
 * Manufacturing Engineering Intern at Base Power Company
   * Summer 2026 in Austin, Texas
   * Module and Inverter Line Improvements
+  * Speciality: Friction Stir Welding
 
 * Project Management Intern at W&W Steel Erectors
   * Summer 2025 in Nashville, Tennessee
