@@ -46,4 +46,4 @@ Sienna has a wide range of technical engineering experience, and will be working
 * SolidWorks Certified
 * OSHA 10-Hour Construction
 
-<img src="/assets/img/headshot.jpg" alt="Sienna Szczesny" style="width:200px;"/>
+
