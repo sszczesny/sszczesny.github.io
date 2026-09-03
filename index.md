@@ -1,5 +1,5 @@
 ---
-title: "Sienna Szczesny Portfolio"
+title: "Sienna Szczesny"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Sienna is studying Mechanical Engineering at Vanderbilt University, and will be working in manufacturing following her graduation in May 2027"
+excerpt: "Mechanical Engineering Student at Vanderbilt University who after graduation will be working in manufacturing in Austin, Texas"
 feature_row:
   - image_path: /assets/img/syringe_image.png
     alt: "Syringe Pump"
