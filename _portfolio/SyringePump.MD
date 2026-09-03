@@ -2,7 +2,7 @@
 title: "Syringe Pump Project"
 excerpt: "3D Printed Motorized Pump with Syringe Compatability"
 header:
-  image: /assets/img/syringe_image.jpg
+  image: /assets/img/syringe_image.png
   teaser: /assets/img/syringe_image.png
 
 ---
