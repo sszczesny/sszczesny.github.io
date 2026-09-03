@@ -30,7 +30,6 @@ Sienna has a wide range of technical engineering experience, and will be working
   * Laythe
   * Friction Stir Welders
   * General tools
-* SolidWorks Certified
 * Programming
   * Java
   * G-Code
@@ -38,10 +37,12 @@ Sienna has a wide range of technical engineering experience, and will be working
   * HTML/CSS
   * C++
   * JavaScript
-*Digital Fabrication Tools
+* Digital Fabrication Tools
   * Autodesk Fusion 360
   * SuperSlicer
  
-  
+## Certifications 
+* SolidWorks Certified
+* OSHA 10-Hour Construction
 
 <img src="/assets/img/headshot.jpg" alt="Sienna Szczesny" style="width:200px;"/>
