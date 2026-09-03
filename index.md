@@ -20,7 +20,7 @@ feature_row:
     excerpt: "TA for VU Machine Shop"
   - image_path: assets/img/dogbowl.jpg
     title: "Automated Dog Bowl"
-    excerpt: "Refillable Bowl with Strain Gauge Sensing"
+    excerpt: "Refillable Bowl with Strain Gauge Volume Sensor"
 ---
 
 {% include feature_row %}
