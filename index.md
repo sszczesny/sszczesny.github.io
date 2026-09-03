@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/img/syringe_image.png
     alt: "Syringe Pump"
     title: "Syringe Pump Project"
-    excerpt: "Motorized Pump with Syringe Compatability"
+    excerpt: "Motorized Pump with Syringe Compatibility"
   - image_path: assets/img/hammer.jpg
     alt: "Hammer"
     title: "Hammer Machining Project"
