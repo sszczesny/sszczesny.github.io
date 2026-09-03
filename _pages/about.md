@@ -10,14 +10,14 @@ Sienna has a wide range of technical engineering experience, and will be working
 * Vanderbilt University
   * BE Mechanical Engineering
   * Minors in Computer Science, Digital Fabrication, Engineering Management
-  * Expecation Graduation: May 2027
+  * Expected Graduation: May 2027
 
 ## Work Experience
 
 * Manufacturing Engineering Intern at Base Power Company
   * Summer 2026 in Austin, Texas
   * Module and Inverter Line Improvements
-  * Speciality: Friction Stir Welding
+  * Specialty: Friction Stir Welding
 
 * Project Management Intern at W&W Steel Erectors
   * Summer 2025 in Nashville, Tennessee
@@ -34,7 +34,7 @@ Sienna has a wide range of technical engineering experience, and will be working
 * Programming
   * Java
   * G-Code
-  * MatLAB
+  * MATLAB
   * HTML/CSS
   * C++
   * JavaScript
