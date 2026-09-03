@@ -23,6 +23,32 @@ The pump includes one button to start and pause its motion and an RGB LED to inf
 
 The syringe pump was programmed using Arduino with the AccelStepper library to control the speed of the stepper motor. Calculations were used to convert a desired flow rate in mL/min into the steps per second required from the motor. The flow rate and internal diameter of the syringe can be changed in the program, allowing the pump to operate with different syringe sizes and desired flow rates.
 
+## Parts Required
+
+### Off-the-Shelf Parts
+
+| Part | Quantity |
+| --- | --- |
+| Stepper Motor | 1 |
+| Lead Screw | 1 |
+| Linear Rod | 1 |
+| Motor Coupler | 1 |
+| Arduino | 1 |
+| Limit Switch | 1 |
+| RGB LED | 1 |
+| Start/Pause Button | 1 |
+| Syringe | 1 |
+
+### 3D-Printed Parts
+
+| Part | Material |
+| --- | --- |
+| Motor Mounting Plate | ABS |
+| Carriage | PLA |
+| Custom End Support | PLA |
+| End Support for Syringe Tip | PLA |
+| End Support | PLA |
+
 View the [Arduino Code](https://gist.github.com/sszczesny/63c3be88db641657d14363d45011b2e1)
 
 ![Syringe Final Assembly Photo](/assets/img/syringe_image.png)
