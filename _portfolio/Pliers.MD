@@ -3,8 +3,8 @@ title: "Multi-Material Pliers"
 order: 2
 excerpt: "3D Printed Pliers with a combination of TPU and PLA"
 header:
-  image: /assets/img/syringe_image.png
-  teaser: /assets/img/syringe_image.png
+  image: /assets/img/pliers1.jpeg
+  teaser: /assets/img/pliers1.jpeg
 
 ---
 
