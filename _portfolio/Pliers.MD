@@ -51,7 +51,7 @@ The fill angle was set to 90 degrees for the correct directional motion to occur
 | End Support | PLA |
 
 ## 3D Rendering of Assembly
-![Syringe Final Rendering](/assets/img/pliersgif)
+![Syringe Final Rendering](/assets/img/pliers_gif)
 
 ## Final Assembly
 ![Syringe Final Assembly Photo](/assets/img/syringe_image.png)
