@@ -16,6 +16,8 @@ This project was designed to be a print-in-place model, meaning that the compone
 Techniques were made throughout the iteration process of this design. For the TPU base part, several pieces were printed at different infills and then the performance was compared. 
 The fill angle was set to 90 degrees for the correct directional motion to occur. The fill density for the base was 10%, and the infill pattern was grid. Infills of 12% and 15% were also tested, and they did not provide enough flexibility. 
 
+![Pliers Infill](/assets/img/infill.png)
+
 To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. 
 
 ## Operating the Syringe Pump
