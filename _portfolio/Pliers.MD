@@ -1,7 +1,7 @@
 ---
-title: "Syringe Pump Project"
+title: "Multi-Material Pliers"
 order: 2
-excerpt: "3D Printed Motorized Pump with Syringe Compatability"
+excerpt: "3D Printed Pliers with a combination of TPU and PLA"
 header:
   image: /assets/img/syringe_image.png
   teaser: /assets/img/syringe_image.png
@@ -10,17 +10,9 @@ header:
 
 # Project Design Overview
 
-The syringe pump is a small tool used to steadily deliver specified volumes of liquid. Syringe pumps have applications in both healthcare and scientific research because they can deliver liquid volumes to a degree of accuracy beyond human capabilities.
+This project was designed to be a print-in-place model, meaning that the components printed could be assembled and functional immediately after removal from the print bed. 
 
-Our syringe pump operates by converting rotational motion into linear motion. An electrically powered stepper motor rotates a lead screw, causing the carriage to move forward and apply pressure to the plunger of the syringe. This pushes the plunger forward and causes liquid to eject from the tip of the syringe at a specified flow rate.
-
-The syringe pump was designed to be compatible with syringes of different diameters and volumes. Custom supports were designed in Fusion 360 to securely hold the syringe while also allowing different syringe sizes to be quickly switched in and out of the apparatus.
-
-The pump includes one button to start and pause its motion and an RGB LED to inform the user of its current state. The LED is green while the pump is running, yellow while it is paused, and red when the syringe is out of liquid. A limit switch is positioned on the carriage so that when the syringe has been emptied, the switch collides with the end support and stops the motion of the motor.
-
-The syringe pump was programmed using Arduino with the AccelStepper library to control the speed of the stepper motor. Calculations were used to convert a desired flow rate in mL/min into the steps per second required from the motor. The flow rate and internal diameter of the syringe can be changed in the program, allowing the pump to operate with different syringe sizes and desired flow rates.
-
-View the [Arduino Code](https://gist.github.com/sszczesny/63c3be88db641657d14363d45011b2e1)
+The overall objective was to design and print need nose pliers that could pick up a through-hole resistor. 
 
 ## Operating the Syringe Pump
 
