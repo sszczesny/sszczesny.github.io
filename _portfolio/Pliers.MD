@@ -50,11 +50,8 @@ The fill angle was set to 90 degrees for the correct directional motion to occur
 | End Support for Syringe Tip | PLA |
 | End Support | PLA |
 
-## 3D Rendering of Assembly
-![Syringe Final Rendering](/assets/img/pliers.gif)
+## Video of Pliers Operation
+![Pliers GIF](/assets/img/ezgif.com-speed.gif)
 
-## Final Assembly
-![Syringe Final Assembly Photo](/assets/img/syringe_image.png)
-
-## CAD Model
+## Final Assembly CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811434b0f39557b4d3a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
