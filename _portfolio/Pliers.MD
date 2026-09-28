@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump Project"
-order: 1
+order: 2
 excerpt: "3D Printed Motorized Pump with Syringe Compatability"
 header:
   image: /assets/img/syringe_image.png
