@@ -32,15 +32,6 @@ To ensure that the dovetails would have a snug fit, different clearances were pr
 | Top Solid Layers | 0 | 4 |
 | Perimeter Count | 0 | 2 |
 
-## Operating the Syringe Pump
-
-1) Upload the Arduino code and load the syringe with the required quantity of liquid.
-2) Place the syringe in the holder with the tip resting on the front support.
-3) Adjust the carriage until it rests against the syringe plunger.
-4) Enter the desired flow rate and internal diameter of the syringe.
-5) Start the pump using the control button. The pump will stop once the limit switch is reached.
-
-## Parts Required
 
 
 ## Video of Pliers Operation
