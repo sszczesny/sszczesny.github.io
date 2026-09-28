@@ -20,6 +20,18 @@ The fill angle was set to 90 degrees for the correct directional motion to occur
 
 To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. 
 
+### Print Settings
+
+| Setting | Base Part | Arm/Handle Part |
+|---|---|---|
+| Material | TPU | PLA |
+| Infill | 10% | 25% |
+| Infill Pattern | Grid | Gyroid |
+| Fill Angle | 90° | 45° |
+| Bottom Solid Layers | 0 | 3 |
+| Top Solid Layers | 0 | 4 |
+| Perimeter Count | 0 | 2 |
+
 ## Operating the Syringe Pump
 
 1) Upload the Arduino code and load the syringe with the required quantity of liquid.
@@ -30,29 +42,6 @@ To ensure that the dovetails would have a snug fit, different clearances were pr
 
 ## Parts Required
 
-### Off-the-Shelf Parts
-
-| Part | Quantity |
-| --- | --- |
-| Stepper Motor | 1 |
-| Lead Screw | 1 |
-| Linear Rod | 1 |
-| Motor Coupler | 1 |
-| Arduino | 1 |
-| Limit Switch | 1 |
-| RGB LED | 1 |
-| Start/Pause Button | 1 |
-| Syringe | 1 |
-
-### 3D-Printed Parts
-
-| Part | Material |
-| --- | --- |
-| Motor Mounting Plate | ABS |
-| Carriage | PLA |
-| Custom End Support | PLA |
-| End Support for Syringe Tip | PLA |
-| End Support | PLA |
 
 ## Video of Pliers Operation
 ![Pliers GIF](/assets/img/ezgif.com-speed.gif)
