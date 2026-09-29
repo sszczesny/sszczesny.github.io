@@ -40,7 +40,6 @@ The photos below depict the iteration stages. The original prototype was smaller
 
 The pliers can pick up items up to 10 mm thick, which is the maximum gap distance. The jaw length is 75 mm. The resting position is open. 
 
-Multi-material pliers were designed, iterated upon, and tested for a final result that can successfully pick up a resistor. Understanding and improvement of print-in-place methods are useful for engineering applications, but also every day 3D printing accessibility. 
 
 ## Final Product
 
@@ -51,6 +50,8 @@ Multi-material pliers were designed, iterated upon, and tested for a final resul
 ### Assembled Pliers
 
 <img src="/assets/img/finalpliers.jpeg" width="500">
+
+Multi-material pliers were designed, iterated upon, and tested for a final result that can successfully pick up a resistor. Understanding and improvement of print-in-place methods are useful for engineering applications, but also every day 3D printing accessibility. 
 
 ## Video of Pliers Operation
 
