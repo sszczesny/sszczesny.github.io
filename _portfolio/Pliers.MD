@@ -29,9 +29,9 @@ Changes were made throughout the iteration process of this design. TPU was used 
 | Top Solid Layers | 0 | 4 |
 | Perimeter Count | 0 | 2 |
 
-To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers could still be easily disassembled. The final clearance was 0.25 mm. Secure dovetails were essential in preserving the spring motion of the TPU. As the plier arms are moved, the TPU moves from a square to a parallelogram, which closes the plier jaws together. If the dovetails slipped, this motion would not occur.
+To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers could still be easily disassembled. The final clearance was 0.25 mm. Secure dovetails were essential in preserving the spring motion of the TPU. As the plier arms are moved, the TPU moves from a square to a parallelogram, which closes the plier jaws together. If the dovetails slipped, this motion would not occur. The PLA provides the force that deforms the TPU. The flexible TPU moves into the required shape and when released goes back to its initial state. This is what makes PLA and TPU work so well together for multi-material prints. 
 
-The photos below depict the iteration stages. The original prototype was smaller than the final product. The Voron 3D printer's 0.6 mm nozzle struggled to print the smaller details of the first pliers, and the smaller design did not provide much jaw strength. Due to both of these reasons, the final product was scaled to 150% of the original model.
+The photos below depict the iteration stages. The original prototype was smaller than the final product. These changes were made from Print #2 to Print #3. The Voron 3D printer's 0.6 mm nozzle struggled to print the smaller details of the first pliers, particularly the dovetails, and the smaller design did not provide much jaw strength. Due to these reasons, the final product was scaled to 150% of the original model. Improved dovetail precision made the pliers much easier to assemble and disassemble. Another improvement from Print #2 to #3 was decreasing the gap between the jaws so that they could pick up the resistor. 
 
 | Iteration | Print #1: Base TPU print with different-sized dovetail fits | Print #2: Simple pliers were printed | Print #3: Scaled-up version of Print #2 with adjusted arms |
 |---|---|---|---|
@@ -39,6 +39,8 @@ The photos below depict the iteration stages. The original prototype was smaller
 | Details | Clearances of 0 mm, 0.1 mm, and 0.25 mm were printed. The 0.25 mm clearance allowed for manual yet secure assembly. | It assembled well but was not functional due to grid orientation, arm shape, and size. | Final product |
 
 The pliers can pick up items up to 10 mm thick, which is the maximum gap distance. The jaw length is 75 mm. The resting position is open. 
+
+Multi-material pliers were designed, iterated upon, and tested for a final result that can successfully pick up a resistor. Understanding and improvement of print-in-place methods are useful for engineering applications, but also every day 3D printing accessibility. 
 
 ## Final Product
 
