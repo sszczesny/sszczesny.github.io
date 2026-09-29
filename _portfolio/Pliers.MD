@@ -30,7 +30,7 @@ Techniques were made throughout the iteration process of this design. TPU was us
 | Top Solid Layers | 0 | 4 |
 | Perimeter Count | 0 | 2 |
 
-To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. 
+To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. Secure dovetails were essential in preserving the spring motion of the TPU. As the plier arms are moved, the TPU moves from a square to a parallelogram, which closes the plier jaws together. If the dovetails slipped, this motion would not occur. 
 
 The photos below depict the iteration stages. The original prototype was smaller than the final product. The Voron 3D printer nozzle of 0.6mm struggled to print the smaller details of first pliers and it didn't provide much jaw strength. Due to both of these reasons, the final product was scaled 150% from the original model. 
 
