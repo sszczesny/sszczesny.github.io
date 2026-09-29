@@ -4,7 +4,7 @@ order: 2
 excerpt: "3D Printed Pliers with a combination of TPU and PLA"
 header:
   image: /assets/img/pliers1.jpeg
-  teaser: /assets/img/pliers1.jpeg
+  teaser: /assets/img/finalpliers.jpeg
 
 ---
 
@@ -40,6 +40,13 @@ The photos below depict the iteration stages. The original prototype was smaller
 | Details | A clearance of 0mm, 0.1mm, and 0.25mm was printed. 0.25mm allowed manual yet secure assembly. | It assembled well but was not functional due to grid orientation, arm shape, and size.  | Final Product |
 
 The pliers can pick up items up to 10 mm thick, which is the gap distance. The gap length is 75mm. 
+
+## Final Product
+### Disassembled Pliers
+<img src="/assets/img/pliers_3.jpeg" width="200">
+
+### Assembled Pliers
+![Pliers Infill](/assets/img/finalpliers.jpeg)
 
 ## Video of Pliers Operation
 ![Pliers GIF](/assets/img/ezgif.com-speed.gif)
