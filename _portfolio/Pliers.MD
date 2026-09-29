@@ -18,16 +18,6 @@ Techniques were made throughout the iteration process of this design. TPU was us
 
 ![Pliers Infill](/assets/img/infill.png)
 
-To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. 
-
-The photos below depict the iteration stages. 
-
-The pliers can pick up items up to 10 mm thick, which is the gap distance. The gap length is 75mm. 
-
-| Iteration| Print #1: Base TPU print with different sized dovetail fit.  | Print #2: Simple Pliers were printed. | Print #3: Scaled up version of Print 2 with adjusted arms |
-|---|---|---|---|
-|Photo| <img src="/assets/img/pliers_1.jpeg" width="200"> | <img src="/assets/img/pliers_2.jpeg" width="200"> | <img src="/assets/img/pliers_3.jpeg" width="200"> |
-| Details | A clearance of 0mm, 0.1mm, and 0.25mm was printed. 0.25mm allowed manual yet secure assembly. | It assembled well but was not functional due to grid orientation, arm shape, and size.  | (Final Product) |
 ### Print Settings
 
 | Setting | Base Part | Arm/Handle Part |
@@ -40,7 +30,16 @@ The pliers can pick up items up to 10 mm thick, which is the gap distance. The g
 | Top Solid Layers | 0 | 4 |
 | Perimeter Count | 0 | 2 |
 
+To ensure that the dovetails would have a snug fit, different clearances were printed until the fit was secure, yet the pliers were also easily disassembled. The final clearance amount was 0.25mm. 
 
+The photos below depict the iteration stages. The original prototype was smaller than the final product. The Voron 3D printer nozzle of 0.6mm struggled to print the smaller details of first pliers and it didn't provide much jaw strength. Due to both of these reasons, the final product was scaled 150% from the original model. 
+
+| Iteration| Print #1: Base TPU print with different sized dovetail fit.  | Print #2: Simple Pliers were printed | Print #3: Scaled up version of Print #2 with adjusted arms |
+|---|---|---|---|
+|Photo| <img src="/assets/img/pliers_1.jpeg" width="200"> | <img src="/assets/img/pliers_2.jpeg" width="200"> | <img src="/assets/img/pliers_3.jpeg" width="200"> |
+| Details | A clearance of 0mm, 0.1mm, and 0.25mm was printed. 0.25mm allowed manual yet secure assembly. | It assembled well but was not functional due to grid orientation, arm shape, and size.  | Final Product |
+
+The pliers can pick up items up to 10 mm thick, which is the gap distance. The gap length is 75mm. 
 
 ## Video of Pliers Operation
 ![Pliers GIF](/assets/img/ezgif.com-speed.gif)
