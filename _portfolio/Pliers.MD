@@ -43,10 +43,10 @@ The pliers can pick up items up to 10 mm thick, which is the gap distance. The g
 
 ## Final Product
 ### Disassembled Pliers
-<img src="/assets/img/pliers_3.jpeg" width="200">
+<img src="/assets/img/pliers_3.jpeg" width="500">
 
 ### Assembled Pliers
-![Pliers Infill](/assets/img/finalpliers.jpeg)
+<img src="/assets/img/finalpliers.jpeg" width="500">
 
 ## Video of Pliers Operation
 ![Pliers GIF](/assets/img/ezgif.com-speed.gif)
