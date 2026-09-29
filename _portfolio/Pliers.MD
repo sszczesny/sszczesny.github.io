@@ -24,6 +24,9 @@ The photos below depict the iteration stages.
 
 The pliers can pick up items up to 10 mm thick, which is the gap distance. The gap length is 75mm. 
 
+| Stage 1 | Stage 2 | Stage 3 |
+| ![Stage 1](/assets/img/pliers_1.jpeg) | ![Stage 1](/assets/img/pliers_2.jpeg) | ![Stage 1](/assets/img/pliers_3.jpeg) |
+
 ### Print Settings
 
 | Setting | Base Part | Arm/Handle Part |
