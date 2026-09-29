@@ -24,10 +24,10 @@ The photos below depict the iteration stages.
 
 The pliers can pick up items up to 10 mm thick, which is the gap distance. The gap length is 75mm. 
 
-| Stage 1 | Stage 2 | Stage 3 |
-|---|---|---|
-| <img src="/assets/img/pliers_1.jpeg" width="200"> | <img src="/assets/img/pliers_2.jpeg" width="200"> | <img src="/assets/img/pliers_3.jpeg" width="200"> |
-
+| Iteration| Print #1: Base TPU print with different sized dovetail fit | Stage 2 | Stage 3 |
+|---|---|---|---|
+|Photo| <img src="/assets/img/pliers_1.jpeg" width="200"> | <img src="/assets/img/pliers_2.jpeg" width="200"> | <img src="/assets/img/pliers_3.jpeg" width="200"> |
+|Issue| sfdjk|sdjfkls|sdjkfls|
 ### Print Settings
 
 | Setting | Base Part | Arm/Handle Part |
