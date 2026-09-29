@@ -38,7 +38,7 @@ The photos below depict the iteration stages. The original prototype was smaller
 | Photo | <img src="/assets/img/pliers_1.jpeg" width="200"> | <img src="/assets/img/pliers_2.jpeg" width="200"> | <img src="/assets/img/pliers_3.jpeg" width="200"> |
 | Details | Clearances of 0 mm, 0.1 mm, and 0.25 mm were printed. The 0.25 mm clearance allowed for manual yet secure assembly. | It assembled well but was not functional due to grid orientation, arm shape, and size. | Final product |
 
-The pliers can pick up items up to 10 mm thick, which is the maximum gap distance. The jaw length is 75 mm.
+The pliers can pick up items up to 10 mm thick, which is the maximum gap distance. The jaw length is 75 mm. The resting position is open. 
 
 ## Final Product
 
