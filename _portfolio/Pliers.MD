@@ -53,10 +53,10 @@ The pliers can pick up items up to 10 mm thick, which is the maximum gap distanc
 
 Multi-material pliers were designed, iterated upon, and tested for a final result that can successfully pick up a resistor. Understanding and improvement of print-in-place methods are useful for engineering applications, but also every day 3D printing accessibility. 
 
-## Video of Pliers Operation
+### Video of Pliers Operation
 
 ![Pliers GIF](/assets/img/ezgif.com-speed.gif)
 
-## Final Assembly CAD Model
+### Final Assembly CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811434b0f39557b4d3a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
